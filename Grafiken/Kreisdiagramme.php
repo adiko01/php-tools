@@ -19,6 +19,7 @@
 	
 	/**
 	 * Klasse zum erstellen von Kreisdiagrammen
+	 * Aktuelle Version unter: https://github.com/adiko01/php-tools/blob/master/Grafiken/Kreisdiagramme.php
 	 * @author adiko01
 	 * @version 1.0
 	 */
