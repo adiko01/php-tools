@@ -1,5 +1,22 @@
 <?php
 	
+	/* Array Werte
+	    $WERTE = array(
+	        "Punkt1" => array(
+	            "value" => 75,
+	            "color" => array(255, 0, 0)
+	        ),
+			"Punkt2" => array(
+			            "value" => 15,
+			            "color" => array(0, 255, 0)
+			 ),
+			"Punkt3" => array(
+			            "value" => 10,
+			            "color" => array(0, 0, 255)
+			 )
+        );
+	 */
+	
 	/**
 	 * Klasse zum erstellen von Kreisdiagrammen
 	 * @author adiko01
